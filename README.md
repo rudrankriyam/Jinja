@@ -1,5 +1,4 @@
 # Jinja
-[![Star History Chart](https://api.star-history.com/svg?repos=rudrankriyam/Jinja&type=Date)](https://star-history.com/#rudrankriyam/Jinja&Date)
 
 A minimalistic Swift implementation of the Jinja templating engine, specifically designed for parsing and rendering ML chat templates.
 
@@ -47,3 +46,5 @@ let context = [
 
 let result = try Template(template).render(context)
 ```
+
+[![Star History Chart](https://api.star-history.com/svg?repos=rudrankriyam/Jinja&type=Date)](https://star-history.com/#rudrankriyam/Jinja&Date)
